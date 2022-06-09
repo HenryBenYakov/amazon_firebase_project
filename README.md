@@ -1,19 +1,18 @@
-# Installation Steps
+# Welcome to my Amazon Full Stack Project
 
-## Using npm
+## The APP is been Deployed to Vercel
 
-Run commands
+https://twitter-project-eta.vercel.app/
 
-1. `npm install`
+## Technology used:
 
-2. `npm run dev`
-
-## Or using yarn
-
-Run commands
-
-1. `npm install --global yarn`
-
-2. `yarn install`
-
-3. `yarn run dev`
+NEXT.JS (SSR),
+REACT,
+REDUX,
+TypeScript,
+TailwindCSS,
+.NextAuth,
+API (Fake store API),
+WEBHOOKS,
+Stripe,
+Firebase
