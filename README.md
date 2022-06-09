@@ -1,4 +1,4 @@
-# Welcome to my Amazon Full Stack Project
+# Welcome to my Amazon Full-Stack Project
 
 ## The APP is been Deployed to Vercel
 
