@@ -11,7 +11,6 @@ REACT,
 REDUX,
 TailwindCSS,
 .NextAuth,
-API (Fake store API),
-WEBHOOKS,
+RESTful API,
 Stripe,
 Firebase
